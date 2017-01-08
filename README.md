@@ -2,11 +2,11 @@
 
 ## Results of quiz:
 
- ![](https://github.com/ArtemNovorai/JQuery-3/issues/1)
+ ![](https://cloud.githubusercontent.com/assets/21219096/21750049/0679ce9a-d5b3-11e6-858d-7de4eda1fd62.png)
  ***
-![](https://github.com/ArtemNovorai/JQuery-3/issues/1) 
+![](https://cloud.githubusercontent.com/assets/21219096/21750049/0679ce9a-d5b3-11e6-858d-7de4eda1fd62.png) 
 ***
-![](https://github.com/ArtemNovorai/JQuery-3/issues/1)
+![](https://cloud.githubusercontent.com/assets/21219096/21750049/0679ce9a-d5b3-11e6-858d-7de4eda1fd62.png)
 ***
  ![](https://cloud.githubusercontent.com/assets/21219096/21744590/88a61e56-d521-11e6-90a9-c70394d87754.png)
  ***
